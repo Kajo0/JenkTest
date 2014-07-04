@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/.idea
+/gradle
+/JenkTest.iml
+/gradlew
+/gradlew.bat
+/app/libs
+/app/build
